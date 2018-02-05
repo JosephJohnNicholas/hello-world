@@ -1,2 +1,5 @@
 # hello-world
-Self-explanatory.
+
+Joe here,
+
+Working hard and yet, hardly working.
